@@ -1,6 +1,6 @@
 ###### yt2mp3 downloader
-originally made this for myself &
-decided to make a nice releasable version for my friends 🖤
+originally made this for myself to avoid sketchy youtube to mp3 downloaders on the internet<br>
+& decided to make a nice releasable version for my friends 🖤
 <img width="521" height="421" alt="image" src="https://github.com/user-attachments/assets/d0514728-ef14-4e2f-bf7d-2e1710e0597b" />
 
 ## Set Download Folder
