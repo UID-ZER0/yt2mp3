@@ -7,6 +7,7 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
 - [ ] bpm analyzer (like serato/rekordbox does)
 - [ ] download full yt playlist
 - [ ] rename tracks
+- [ ] single status row per track
 - [ ] maybe port to iOS
 
 ---
