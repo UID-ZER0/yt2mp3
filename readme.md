@@ -1,5 +1,5 @@
-yt2mp3 downloader
-originally made this for myself
+###### yt2mp3 downloader
+originally made this for myself &
 decided to make a nice releasable version for my friends <3
 
 ## Set Download Folder
