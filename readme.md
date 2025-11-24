@@ -1,9 +1,10 @@
 ###### yt2mp3 downloader
 originally made this for myself &
 decided to make a nice releasable version for my friends 🖤
+<img width="521" height="421" alt="image" src="https://github.com/user-attachments/assets/d0514728-ef14-4e2f-bf7d-2e1710e0597b" />
 
 ## Set Download Folder
-<img width="406" height="141" alt="image" src="https://github.com/user-attachments/assets/2f102861-c396-48de-970c-f84e19974145" />
+<img width="400" height="136" alt="image" src="https://github.com/user-attachments/assets/873a0d5b-728d-4051-b937-98d60985ffa8" />
 
 ---
 
