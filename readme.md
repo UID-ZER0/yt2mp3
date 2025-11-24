@@ -3,6 +3,12 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
 & decided to make a nice releasable version for my friends 🖤
 <img width="521" height="421" alt="image" src="https://github.com/user-attachments/assets/d0514728-ef14-4e2f-bf7d-2e1710e0597b" />
 
+## planned updates
+- [ ] bpm analyzer 
+- [ ] download full playlists
+
+---
+
 ## Set Download Folder
 <img width="400" height="136" alt="image" src="https://github.com/user-attachments/assets/873a0d5b-728d-4051-b937-98d60985ffa8" />
 
