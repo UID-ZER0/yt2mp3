@@ -10,7 +10,7 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
   - [ ] media controls
   - [ ] editable name field
 - [ ] download full yt playlist
-- [ ] maybe port to iOS
+- [ ] port to iOS
 
 ---
 
@@ -29,4 +29,5 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
 ---
 
 ## Paste URL & Download
-<img width="462" height="51" alt="image" src="https://github.com/user-attachments/assets/2e1939bf-2de9-40ad-92eb-8e78a939729d" />
+<img width="462" height="51" alt="image" src="https://github.com/user-attachments/assets/2e1939bf-2de9-40ad-92eb-8e78a939729d" /><br>
+***you can run as many downloads at a time as you want, you dont have to wait for it to finish!***
