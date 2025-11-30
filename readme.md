@@ -1,7 +1,7 @@
 ###### yt2mp3 downloader
 originally made this for myself to avoid sketchy youtube to mp3 downloaders on the internet<br>
 & decided to make a nice releasable version for my friends 🖤
-<img width="521" height="421" alt="image" src="https://github.com/user-attachments/assets/d0514728-ef14-4e2f-bf7d-2e1710e0597b" />
+<img width="520" height="420" alt="image" src="https://github.com/user-attachments/assets/01410f47-fb41-4808-8637-244a95488e4d" />
 
 ## planned updates
 - [ ] bpm analyzer (like serato/rekordbox)
