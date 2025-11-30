@@ -9,6 +9,7 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
 - [x] single status row per track with
   - [x] download progress
   - [ ] editable name field
+- [ ] swap between multiple download destinations/crates when downloading 
 - [ ] port to iOS
 
 ---
