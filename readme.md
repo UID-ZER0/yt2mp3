@@ -5,11 +5,10 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
 
 ## planned updates
 - [ ] bpm analyzer (like serato/rekordbox)
-- [ ] single status row per track with
-  - [ ] progress
-  - [ ] media controls
+- [x] media controls
+- [x] single status row per track with
+  - [x] download progress
   - [ ] editable name field
-- [ ] download full yt playlist
 - [ ] port to iOS
 
 ---
