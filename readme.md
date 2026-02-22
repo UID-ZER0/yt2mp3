@@ -14,6 +14,11 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
 
 ---
 
+## Download From The Releases Section On The Right
+<img width="259" height="465" alt="releases" src="https://github.com/user-attachments/assets/231784d5-43cb-4004-97d0-1ea4324611d4" />
+
+---
+
 ## Set Download Folder
 <img width="400" height="136" alt="image" src="https://github.com/user-attachments/assets/873a0d5b-728d-4051-b937-98d60985ffa8" />
 
