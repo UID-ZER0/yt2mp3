@@ -19,6 +19,34 @@ originally made this for myself to avoid sketchy youtube to mp3 downloaders on t
 
 ---
 
+## Download This yt2mp3.zip
+
+<img width="200" height="136" alt="dlthis" src="https://github.com/user-attachments/assets/35e03355-b167-4bd5-8c4e-78d1220fab64" />
+
+---
+
+## Extract the yt2mp3.zip 
+
+Put this folder anywhere you want on your computer
+
+<img width="107" height="46" alt="image" src="https://github.com/user-attachments/assets/9b5743dc-cf43-43bc-9048-de0c6acf4543" />
+
+---
+
+Create a shortcut of yt2mp3.exe somewhere
+
+<img width="112" height="91" alt="click" src="https://github.com/user-attachments/assets/951bb142-4b7b-4399-bdc8-17d13a9866a6" />
+
+like the desktop 
+
+<img width="459" height="91" alt="Screenshot 2026-02-22 165048" src="https://github.com/user-attachments/assets/07321261-a1a9-4c45-ae44-c6206689731c" />
+
+or 'pin to taskbar'
+
+<img width="319" height="263" alt="Screenshot 2026-02-22 164855" src="https://github.com/user-attachments/assets/28932f67-516d-44a8-80c2-66c79a4fb9bd" />
+
+---
+
 ## Set Download Folder
 <img width="400" height="136" alt="image" src="https://github.com/user-attachments/assets/873a0d5b-728d-4051-b937-98d60985ffa8" />
 
